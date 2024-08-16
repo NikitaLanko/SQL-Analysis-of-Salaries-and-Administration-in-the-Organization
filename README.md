@@ -11,25 +11,25 @@ SQL: Для анализа данных и выполнения запросов
 
 **Средняя зарплата сотрудников по годам**:open_file_folder:	- **Code** :arrow_right: **Result**
 
-![Средняя зарплата сотрудников по годам](https://github.com/NikitaLanko/SQL-Analysis-of-Salaries-and-Administration-in-the-Organization/blob/81cea4dbc996da2eb81e5d82105de56e7a77da69/image/code1.png)
+![code](https://github.com/NikitaLanko/SQL-Analysis-of-Salaries-and-Administration-in-the-Organization/blob/81cea4dbc996da2eb81e5d82105de56e7a77da69/image/code1.png)
 ![result](https://github.com/NikitaLanko/SQL-Analysis-of-Salaries-and-Administration-in-the-Organization/blob/fe1b77922ea3f6c2a23501591b20e84564f7844f/image/result1.png)
 
 
 **Средняя зарплата сотрудников по каждому департаменту**:open_file_folder: - **Code** :arrow_right: **Result**
 
-![Средняя зарплата сотрудников по каждому департаменту](https://github.com/NikitaLanko/SQL-Analysis-of-Salaries-and-Administration-in-the-Organization/blob/81cea4dbc996da2eb81e5d82105de56e7a77da69/image/code2.png)
+![code](https://github.com/NikitaLanko/SQL-Analysis-of-Salaries-and-Administration-in-the-Organization/blob/81cea4dbc996da2eb81e5d82105de56e7a77da69/image/code2.png)
 ![result](https://github.com/NikitaLanko/SQL-Analysis-of-Salaries-and-Administration-in-the-Organization/blob/81cea4dbc996da2eb81e5d82105de56e7a77da69/image/result2.png)
 
 
 **Средняя зарплата сотрудников в каждом отделе по каждому году**:open_file_folder:	- **Code** :arrow_right: **Result**
 
-![Средняя зарплата сотрудников в каждом отделе по каждому году](https://github.com/NikitaLanko/SQL-Analysis-of-Salaries-and-Administration-in-the-Organization/blob/81cea4dbc996da2eb81e5d82105de56e7a77da69/image/code3.png)
+![code](https://github.com/NikitaLanko/SQL-Analysis-of-Salaries-and-Administration-in-the-Organization/blob/81cea4dbc996da2eb81e5d82105de56e7a77da69/image/code3.png)
 ![result](https://github.com/NikitaLanko/SQL-Analysis-of-Salaries-and-Administration-in-the-Organization/blob/fe1b77922ea3f6c2a23501591b20e84564f7844f/image/result3.0.png)
 
 
 **Для каждого года, крупнейший отдел текущего года и среднюю зарплату**:open_file_folder:	- **Code** :arrow_right: **Result**
 
-![Самый крупный департамент и его средняя зарплата по годам](https://github.com/NikitaLanko/SQL-Analysis-of-Salaries-and-Administration-in-the-Organization/blob/81cea4dbc996da2eb81e5d82105de56e7a77da69/image/code4.png)
+![code](https://github.com/NikitaLanko/SQL-Analysis-of-Salaries-and-Administration-in-the-Organization/blob/81cea4dbc996da2eb81e5d82105de56e7a77da69/image/code4.png)
 ![result](https://github.com/NikitaLanko/SQL-Analysis-of-Salaries-and-Administration-in-the-Organization/blob/fe1b77922ea3f6c2a23501591b20e84564f7844f/image/result4.png)
 
 
@@ -47,13 +47,13 @@ SQL: Для анализа данных и выполнения запросов
 
 **Детальная информация второго по порядку менджера для каждого отдела**:open_file_folder:	- **Code** :arrow_right: **Result**
 
-![Второй по старшинству менеджер в каждом департаменте](https://github.com/NikitaLanko/SQL-Analysis-of-Salaries-and-Administration-in-the-Organization/blob/81cea4dbc996da2eb81e5d82105de56e7a77da69/image/code7.png)
+![code](https://github.com/NikitaLanko/SQL-Analysis-of-Salaries-and-Administration-in-the-Organization/blob/81cea4dbc996da2eb81e5d82105de56e7a77da69/image/code7.png)
 ![result](https://github.com/NikitaLanko/SQL-Analysis-of-Salaries-and-Administration-in-the-Organization/blob/fe1b77922ea3f6c2a23501591b20e84564f7844f/image/result7.png)
 
 
 **Департаменты с числом текущих сотрудников более 15000**:open_file_folder: - **Code** :arrow_right: **Result**
 
-![Департаменты с числом сотрудников более 15.000](https://github.com/NikitaLanko/SQL-Analysis-of-Salaries-and-Administration-in-the-Organization/blob/81cea4dbc996da2eb81e5d82105de56e7a77da69/image/code8.png)
+![code](https://github.com/NikitaLanko/SQL-Analysis-of-Salaries-and-Administration-in-the-Organization/blob/81cea4dbc996da2eb81e5d82105de56e7a77da69/image/code8.png)
 ![result](https://github.com/NikitaLanko/SQL-Analysis-of-Salaries-and-Administration-in-the-Organization/blob/fe1b77922ea3f6c2a23501591b20e84564f7844f/image/result8.png)
 
 
